@@ -27,7 +27,7 @@ nav{
 }
 .first{
     margin-top: 6.1%;
-    background-image: url(7up\ bk.webp);
+    background-image: url(7up-images/7up\ bk.webp);
     height: 95vh;
     background-repeat: no-repeat;
     width: 100%;
@@ -84,7 +84,7 @@ nav{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .second{
-    background-image: url(7up\ image2.webp);
+    background-image: url(7up-images/7up\ image2.webp);
     background-repeat: no-repeat;
     height: 93vh;
     width: 100%;
@@ -111,7 +111,7 @@ nav{
     border-radius: 50px;
 }
 .third{
-    background-image: url(7up\ image3.webp);
+    background-image: url(7up-images/7up\ image3.webp);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
